@@ -35,3 +35,5 @@ GDevelop - https://gdevelop.io/
 PyGame - https://www.pygame.org/  
 MelonJS - https://melonjs.org/  
 Allegro - https://liballeg.org/  
+Luxe - https://luxeengine.com/
+Solarus - https://solarus-games.org/
