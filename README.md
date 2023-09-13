@@ -19,7 +19,7 @@ TIC-80 - https://tic80.com/
 Murder - https://github.com/isadorasophia/murder  
 Bevy Engine - https://bevyengine.org/  
 LÖVE2D - https://love2d.org/  
-libGFX - https://libgdx.com/  
+libGDX - https://libgdx.com/  
 RayLib - https://www.raylib.com/  
 Defold - https://defold.com/  
 HaxeFlixel - https://haxeflixel.com/  
