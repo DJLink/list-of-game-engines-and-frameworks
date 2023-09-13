@@ -35,3 +35,6 @@ GDevelop - https://gdevelop.io/
 PyGame - https://www.pygame.org/  
 MelonJS - https://melonjs.org/  
 Allegro - https://liballeg.org/  
+nCine - https://ncine.github.io/  
+pyxel - https://github.com/kitao/pyxel  
+ursina engine - https://www.ursinaengine.org/  
