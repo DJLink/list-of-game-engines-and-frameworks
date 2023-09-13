@@ -41,3 +41,11 @@ Solarus - https://solarus-games.org/
 nCine - https://ncine.github.io/  
 pyxel - https://github.com/kitao/pyxel  
 ursina engine - https://www.ursinaengine.org/  
+Arrow - The Game Narrative Design Tool - IF- https://mhgolkar.github.io/Arrow/
+Inform 7 - IF - https://ganelson.github.io/inform-website/
+Adventuron - IF - https://adventuron.io/
+IfSpace - IF - https://www.ifspace.net/
+OpenSludge - PnC - https://opensludge.github.io/
+ngPAWS - IF - https://ngpaws.com/
+FI-js - IF - http://baltasarq.github.io/fi-js/
+TextEngine - IF - https://github.com/okaybenji/text-engine
