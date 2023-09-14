@@ -51,3 +51,12 @@ FI-js - IF - http://baltasarq.github.io/fi-js/
 TextEngine - IF - https://github.com/okaybenji/text-engine  
 Open 3D Engine - https://o3de.org/   
 Trial - https://github.com/Shirakumo/trial  
+Ebiengine - https://ebitengine.org/  
+Panda3D - https://github.com/panda3d/panda3d  
+Heaps - https://heaps.io/  
+Stride Engine 3D - https://www.stride3d.net/  
+Flax - https://flaxengine.com/  
+Castle Engine - https://castle-engine.io/  
+GameBoy Studio - https://www.gbstudio.dev/  
+
+
