@@ -58,5 +58,6 @@ Stride Engine 3D - https://www.stride3d.net/
 Flax - https://flaxengine.com/  
 Castle Engine - https://castle-engine.io/  
 GameBoy Studio - https://www.gbstudio.dev/  
+Bitty Engine - https://paladin-t.github.io/bitty/  
 
 
