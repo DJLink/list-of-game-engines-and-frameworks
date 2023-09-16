@@ -59,6 +59,5 @@ Flax - https://flaxengine.com/
 Castle Engine - https://castle-engine.io/  
 GameBoy Studio - https://www.gbstudio.dev/  
 Bitty Engine - https://paladin-t.github.io/bitty/  
-Beef Editor and Language - https://www.beeflang.org
 
 
