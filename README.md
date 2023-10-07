@@ -8,6 +8,7 @@ Feel free to make PR with more things
 Godot - https://godotengine.org  
 MonoGame - https://www.monogame.net/  
 FNA - https://fna-xna.github.io/  
+KNI - https://github.com/kniengine/kni/
 SDL - https://www.libsdl.org/  
 SFML - https://www.sfml-dev.org/  
 Adventure Studio - https://www.adventuregamestudio.co.uk/  
