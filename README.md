@@ -67,7 +67,8 @@ Feel free to make PR with more things
 | GamePlay 2D/3D   | [gameplay3d.io](https://www.gameplay3d.io/) |
 | FlatRedBall      | [github.com/vchelaru/FlatRedBall](https://github.com/vchelaru/FlatRedBall) |
 | PICO-8           | [lexaloffle.com/pico-8.php](https://www.lexaloffle.com/pico-8.php) |
-| Comfy Engine     | [https://comfyengine.org/](https://comfyengine.org/) |
+| Comfy Engine     | [comfyengine.org/](https://comfyengine.org/) |
+| MacroQuad        | [github.com/not-fl3/macroquad](https://github.com/not-fl3/macroquad) |
 
 
 
