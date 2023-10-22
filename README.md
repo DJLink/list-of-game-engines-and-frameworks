@@ -70,6 +70,7 @@ Feel free to make PR with more things
 | Comfy Engine     | [comfyengine.org/](https://comfyengine.org/) |
 | MacroQuad        | [github.com/not-fl3/macroquad](https://github.com/not-fl3/macroquad) |
 | Indigo Engine    | [indigoengine.io](https://indigoengine.io/) |
+| Growl            | [github.com/Bearwaves/growl](https://github.com/Bearwaves/growl/) |
 
 
 
