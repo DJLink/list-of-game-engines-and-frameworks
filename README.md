@@ -71,6 +71,7 @@ Feel free to make PR with more things
 | MacroQuad        | [github.com/not-fl3/macroquad](https://github.com/not-fl3/macroquad) |
 | Indigo Engine    | [indigoengine.io](https://indigoengine.io/) |
 | Growl            | [github.com/Bearwaves/growl](https://github.com/Bearwaves/growl/) |
-| TypeSpriteJS     | [https://typespritejs.dev/](https://typespritejs.dev/) |
+| TypeSpriteJS     | [typespritejs.dev/](https://typespritejs.dev/) |
+| Dagor Engine     | [github.com/GaijinEntertainment/DagorEngine](https://github.com/GaijinEntertainment/DagorEngine) |
 
 
