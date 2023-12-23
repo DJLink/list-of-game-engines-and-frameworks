@@ -73,5 +73,6 @@ Feel free to make PR with more things
 | Growl            | [github.com/Bearwaves/growl](https://github.com/Bearwaves/growl/) |
 | TypeSpriteJS     | [typespritejs.dev/](https://typespritejs.dev/) |
 | Dagor Engine     | [github.com/GaijinEntertainment/DagorEngine](https://github.com/GaijinEntertainment/DagorEngine) |
+| Narrat Engine    | [narrat.dev](https://narrat.dev/) |
 
 
